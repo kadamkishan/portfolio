@@ -30,8 +30,10 @@
     
     width: 142px;
     height: 165px;
+    /* height: 125px; */
 }
 .logo-container{
+    margin-left: -5%;
     display: flex; 
     justify-content: baseline;
     align-items: center;
